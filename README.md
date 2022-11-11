@@ -1,2 +1,2 @@
-# test
-테스트
+# coding test
+코딩테스트
